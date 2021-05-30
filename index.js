@@ -1,1 +1,1 @@
-let prueba2 = 'test';
+let testing = 'esto es una prueba';
